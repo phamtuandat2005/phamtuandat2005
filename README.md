@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="assets/avatar.png" width="160" alt="Pham Tuan Dat" style="border-radius: 50%;" />
-</p>
+### 👋 Hi there, I'm Pham Tuan Dat!
 
-<h1 align="center">👋 Hi there, I'm Pham Tuan Dat!</h1>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/phamtuandat2005">
     <img src="https://api.visitorbadge.io/api/visitors?path=phamtuandat2005&label=Profile%20views&countColor=%23ff4668&style=flat-square" alt="Profile views" />
   </a>
@@ -19,8 +15,26 @@
   </a>
 </p>
 
-> 🚀 **Aspiring AI Engineer** | Passionate about **Generative AI, Large Language Models (LLMs), Computer Vision, and MLOps**.  
-> 💡 Always eager to build intelligent systems, optimize neural architectures, and bring cutting-edge research into real-world applications.
+---
+
+### About Me
+
+<table>
+  <tr>
+    <td valign="center" width="65%">
+      <ul>
+        <li>💼 Định hướng phát triển với tư cách là <b>AI Engineer / Machine Learning Engineer</b>.</li>
+        <li>🎓 Đam mê nghiên cứu sâu về <b>Deep Learning, Generative AI & Large Language Models (LLMs)</b>.</li>
+        <li>🌱 Nghiên cứu chuyên sâu về <b>Computer Vision, RAG Systems, AI Agents</b> và <b>MLOps</b>.</li>
+        <li>⚡ Thích xây dựng các giải pháp ứng dụng AI vào thực tế, tối ưu hóa mô hình và triển khai hiệu năng cao.</li>
+        <li>🎯 Mục tiêu: Trở thành kỹ sư AI kiến tạo các giải pháp thông minh mang lại giá trị thực tiễn.</li>
+      </ul>
+    </td>
+    <td valign="center" align="center" width="35%">
+      <img src="assets/avatar.png" width="220" alt="Pham Tuan Dat" />
+    </td>
+  </tr>
+</table>
 
 ---
 

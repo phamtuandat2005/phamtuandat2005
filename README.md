@@ -19,7 +19,7 @@
 
 ### About Me
 
-<table>
+<table style="border: none; width: 100%;">
   <tr>
     <td valign="center" width="80%">
       <p style ="font-size: 17px; color: white;">💼 Aspiring <b>AI Engineer / Machine Learning Engineer</b></p>

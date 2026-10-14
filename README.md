@@ -68,6 +68,14 @@
 
 ---
 
+### 🏢 3D Contribution Graph
+
+<p align="left">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Pham Tuan Dat's 3D Contribution Graph" />
+</p>
+
+---
+
 ### 📊 My GitHub contributions summary
 
 <p align="left">

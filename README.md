@@ -98,8 +98,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamtuandat2005&theme=solarized" alt="Profile Details" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamtuandat2005&theme=solarized" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phamtuandat2005&theme=solarized" alt="Top Languages by Commit" /><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamtuandat2005&theme=solarized" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phamtuandat2005&theme=solarized&utcOffset=7" alt="Commits (UTC +7.00)" />
 </p>

@@ -4,7 +4,7 @@
   <a href="https://github.com/phamtuandat2005">
     <img src="https://api.visitorbadge.io/api/visitors?path=phamtuandat2005&label=Profile%20views&countColor=%23ff4668&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/phạm-tuấn-đạt-779678408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/phamtuandat" target="_blank">

@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm [Your Name]!
+### 👋 Hi there, I'm Pham Tuan Dat!
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff4668&style=flat-square&label=Profile+views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=phamtuandat2005&color=ff4668&style=flat-square&label=Profile+views)](https://github.com/phamtuandat2005)
 
 ---
 
@@ -63,13 +63,13 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 <p align="left">
   <!-- Streak Stats Card -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FF4668&fire=FF4668&currStreakNum=FF4668&sideNums=FFFFFF&currStreakLabel=FF4668&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=phamtuandat2005&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FF4668&fire=FF4668&currStreakNum=FF4668&sideNums=FFFFFF&currStreakLabel=FF4668&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="left">
   <!-- GitHub Overall Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D1117&title_color=FF4668&text_color=FFFFFF&icon_color=FF4668&border_color=30363D" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=phamtuandat2005&show_icons=true&bg_color=0D1117&title_color=FF4668&text_color=FFFFFF&icon_color=FF4668&border_color=30363D" alt="GitHub Stats" />
   </a>
 </p>

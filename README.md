@@ -69,16 +69,6 @@
 
 ---
 
-### ☕ Support & Connect
-
-If you appreciate my work or find my projects helpful, feel free to support me:
-
-<a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=YOUR_BUYMEACOFFEE_USERNAME&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="42" />
-</a>
-
----
-
 ### 📊 My GitHub contributions summary
 
 <p align="left">

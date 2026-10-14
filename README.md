@@ -19,15 +19,20 @@
 
 ### About Me
 
-<img align="right" src="assets/avatar.png" width="180" alt="Pham Tuan Dat" />
-
-- 💼 Aspiring **AI Engineer / Machine Learning Engineer**.
-- 🎓 Passionate about **Deep Learning, Generative AI & Large Language Models (LLMs)**.
-- 🌱 Researching **Computer Vision, RAG Systems, AI Agents**, and **MLOps**.
-- ⚡ Building intelligent real-world solutions, optimizing neural architectures, and deploying high-performance models.
-- 🎯 Goal: Creating innovative AI systems that deliver tangible real-world value.
-
-<br clear="both"/>
+<table>
+  <tr>
+    <td valign="center" width="65%">
+      <h4>💼 Aspiring <b>AI Engineer / Machine Learning Engineer</b></h4>
+      <h4>🎓 Passionate about <b>Deep Learning, Generative AI & Large Language Models (LLMs)</b></h4>
+      <h4>🌱 Researching <b>Computer Vision, RAG Systems, AI Agents</b>, and <b>MLOps</b></h4>
+      <h4>⚡ Building intelligent real-world solutions, optimizing neural architectures, and deploying high-performance models</h4>
+      <h4>🎯 Goal: Creating innovative AI systems that deliver tangible real-world value</h4>
+    </td>
+    <td valign="center" align="center" width="35%">
+      <img src="assets/avatar.png" width="220" alt="Pham Tuan Dat" />
+    </td>
+  </tr>
+</table>
 
 ---
 

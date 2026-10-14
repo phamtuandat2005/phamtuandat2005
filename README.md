@@ -1,6 +1,10 @@
-### 👋 Hi there, I'm Pham Tuan Dat!
+<p align="center">
+  <img src="assets/avatar.png" width="160" alt="Pham Tuan Dat" style="border-radius: 50%;" />
+</p>
 
-<p align="left">
+<h1 align="center">👋 Hi there, I'm Pham Tuan Dat!</h1>
+
+<p align="center">
   <a href="https://github.com/phamtuandat2005">
     <img src="https://komarev.com/ghpvc/?username=phamtuandat2005&color=ff4668&style=flat-square&label=Profile+views" alt="Profile views" />
   </a>
@@ -76,22 +80,22 @@
 
 ---
 
-### 📊 My GitHub contributions summary
+### 📊 GitHub Profile Summary
 
-<p align="left">
-  <!-- Streak Stats Card -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=phamtuandat2005&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FF4668&fire=FF4668&currStreakNum=FF4668&sideNums=FFFFFF&currStreakLabel=FF4668&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamtuandat2005&theme=solarized" alt="Profile Details" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamtuandat2005&theme=solarized" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phamtuandat2005&theme=solarized" alt="Top Languages by Commit" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamtuandat2005&theme=solarized" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phamtuandat2005&theme=solarized&utcOffset=7" alt="Commits (UTC +7.00)" />
 </p>
 
-<p align="left">
-  <!-- GitHub Overall Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=phamtuandat2005&show_icons=true&bg_color=0D1117&title_color=FF4668&text_color=FFFFFF&icon_color=FF4668&border_color=30363D" alt="GitHub Stats" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuandat2005&layout=compact&bg_color=0D1117&title_color=FF4668&text_color=FFFFFF&border_color=30363D" alt="Top Languages" />
+---
+
+### 📈 GitHub Contributions Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=phamtuandat2005&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FF4668&fire=FF4668&currStreakNum=FF4668&sideNums=FFFFFF&currStreakLabel=FF4668&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
   </a>
 </p>

@@ -23,11 +23,11 @@
   <tr>
     <td valign="center" width="65%">
       <ul>
-        <li>💼 Định hướng phát triển với tư cách là <b>AI Engineer / Machine Learning Engineer</b>.</li>
-        <li>🎓 Đam mê nghiên cứu sâu về <b>Deep Learning, Generative AI & Large Language Models (LLMs)</b>.</li>
-        <li>🌱 Nghiên cứu chuyên sâu về <b>Computer Vision, RAG Systems, AI Agents</b> và <b>MLOps</b>.</li>
-        <li>⚡ Thích xây dựng các giải pháp ứng dụng AI vào thực tế, tối ưu hóa mô hình và triển khai hiệu năng cao.</li>
-        <li>🎯 Mục tiêu: Trở thành kỹ sư AI kiến tạo các giải pháp thông minh mang lại giá trị thực tiễn.</li>
+        <li>💼 Aspiring <b>AI Engineer / Machine Learning Engineer</b>.</li>
+        <li>🎓 Passionate about <b>Deep Learning, Generative AI & Large Language Models (LLMs)</b>.</li>
+        <li>🌱 Researching <b>Computer Vision, RAG Systems, AI Agents</b>, and <b>MLOps</b>.</li>
+        <li>⚡ Building intelligent real-world solutions, optimizing neural architectures, and deploying high-performance models.</li>
+        <li>🎯 Goal: Creating innovative AI systems that deliver tangible real-world value.</li>
       </ul>
     </td>
     <td valign="center" align="center" width="35%">

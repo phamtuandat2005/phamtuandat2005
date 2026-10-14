@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td valign="center" align="center" width="35%">
-      <img src="assets/avatar.png" width="220" alt="Pham Tuan Dat" />
+      <img src="assets/avatar.png" width="200" alt="Pham Tuan Dat" />
     </td>
   </tr>
 </table>

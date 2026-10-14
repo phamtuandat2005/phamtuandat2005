@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/phamtuandat2005">
-    <img src="https://komarev.com/ghpvc/?username=phamtuandat2005&color=ff4668&style=flat-square&label=Profile+views" alt="Profile views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=phamtuandat2005&label=Profile%20views&countColor=%23ff4668&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -69,14 +69,6 @@
 - 🔬 Experimenting with **Fine-Tuning LLMs** (LoRA, QLoRA) on domain-specific datasets
 - ⚡ Optimizing model inference with **vLLM**, **ONNX Runtime**, and **TensorRT**
 - 🤝 Looking to collaborate on open-source AI projects & Machine Learning research
-
----
-
-### 🏢 3D Contribution Graph
-
-<p align="left">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Pham Tuan Dat's 3D Contribution Graph" />
-</p>
 
 ---
 

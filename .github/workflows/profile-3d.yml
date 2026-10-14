@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 18 * * *" # Runs every day at 18:00 UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'profile-3d-contrib/**'
+      - 'README.md'
 
 permissions:
   contents: write

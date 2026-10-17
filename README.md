@@ -18,14 +18,14 @@
 ---
 
 ### About Me
-<table style = "border: none; width: 100%;">
+<table style="border: none; width: 100%;">
   <tr>
     <td valign="center" width="80%">
-      <p style ="font-size: 17px; color: white;">💼 Aspiring <b>AI Engineer / Machine Learning Engineer</b></p>
-      <p style ="font-size: 17px; color: white;">🎓 Passionate about <b>Deep Learning, Generative AI & Large Languag Models (LLMs)</b></p>
-      <p style ="font-size: 17px; color: white;">🌱 Researching <b>Computer Vision, RAG Systems, AI Agents</b>, and <b>MLOps</b></p>
-      <p style ="font-size: 17px; color: white;">⚡ Building intelligent real-world solutions, optimizing neural architectures, and deploying high-performance models</p>
-      <p style ="font-size: 17px; color: white;">🎯 Goal: Creating innovative AI systems that deliver tangible real-world value</p>
+      <p style="font-size: 17px; color: white;">💼 Aspiring <b>AI & Automation Engineer</b></p>
+      <p style="font-size: 17px; color: white;">🎓 Passionate about <b>Deep Learning, Generative AI, LLMs & Workflow Automation</b></p>
+      <p style="font-size: 17px; color: white;">🌱 Researching <b>Computer Vision, RAG Systems, AI Agents</b>, and <b>Intelligent Automation Solutions</b></p>
+      <p style="font-size: 17px; color: white;">⚡ Building high-performance Python automation tools, smart agents, and scalable machine learning systems</p>
+      <p style="font-size: 17px; color: white;">🎯 Goal: Bridging the gap between advanced artificial intelligence and robust real-world automation workflows</p>
     </td>
     <td valign="center" align="center" width="20%">
       <img src="assets/avatar.png" width="220" alt="Pham Tuan Dat" />
